@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "241157259282",
+    "firebase_url": "https://dating-app-360-default-rtdb.firebaseio.com",
+    "project_id": "dating-app-360",
+    "storage_bucket": "dating-app-360.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241157259282:android:fdb6cea7f46aa44ce858cb",
+        "android_client_info": {
+          "package_name": "com.example.dating_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "241157259282-h1odfcsqde3ksjphhmjcb8akva2br97n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dating_app",
+            "certificate_hash": "f4a82979bd166dbe1581ab60a18c4f85cc977977"
+          }
+        },
+        {
+          "client_id": "241157259282-h4845q9dha63b13bhhac9t6rvfkl94g4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dating_app",
+            "certificate_hash": "2c163cfa6035889ed861124a9db98fb70185a695"
+          }
+        },
+        {
+          "client_id": "241157259282-j9kfa8tjhc9i7rc67sd59ai9g44uebrm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dating_app",
+            "certificate_hash": "d32239dc131f4469b6f3d073a87c22cb89fb3108"
+          }
+        },
+        {
+          "client_id": "241157259282-r1guoqfj6jpo8q50sq21fih46e07ju9s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEnkU_3T5BFJkiA5DutzAws8wLYerPaYw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "241157259282-r1guoqfj6jpo8q50sq21fih46e07ju9s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "241157259282-vblqc3irutrvo010h05fk08ocdli13cd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.datingApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241157259282:android:425bca014daa345ae858cb",
+        "android_client_info": {
+          "package_name": "com.vorza360.flirtea"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "241157259282-r1guoqfj6jpo8q50sq21fih46e07ju9s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEnkU_3T5BFJkiA5DutzAws8wLYerPaYw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "241157259282-r1guoqfj6jpo8q50sq21fih46e07ju9s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "241157259282-vblqc3irutrvo010h05fk08ocdli13cd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.datingApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
